@@ -1,6 +1,6 @@
 package edu.will.POO;
 
-class carro {
+class Carro {
     String cor;
     String modelo;
     int capacidadeTanque;
@@ -35,7 +35,7 @@ class carro {
         return modelo;
     }
 
-    void setCapacidade(int capacidadeTanque) {
+    void capacidadeTanque(int capacidadeTanque) {
         this.capacidadeTanque = capacidadeTanque;
     }
 
