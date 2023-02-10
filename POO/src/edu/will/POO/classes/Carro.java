@@ -1,4 +1,4 @@
-package edu.will.POO;
+package edu.will.POO.classes;
 
 class Carro {
     String cor;

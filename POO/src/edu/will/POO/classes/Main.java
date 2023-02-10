@@ -1,4 +1,6 @@
-package edu.will.POO;
+package edu.will.POO.classes;
+
+import edu.will.POO.classes.Carro;
 
 public class Main {
     public static void main(String[] args) {
